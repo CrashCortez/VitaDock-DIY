@@ -3,7 +3,7 @@
 
 [VitaDock video sneak peak](https://youtu.be/uhU4KG8FZ6s)
 
-xCorra's Reddit post copied to the GitHub [click here](https://github.com/CrashCortez/vitadock-vlc)
+xCorra's Reddit post copied to the GitHub [click here](https://github.com/CrashCortez/vitadock-vlc), I suggest you read there first for the required plugins on the vita side of things.
 
 What you will need for this build
 ------------------------------------
