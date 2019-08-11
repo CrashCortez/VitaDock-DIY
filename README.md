@@ -51,7 +51,7 @@ Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=
 1- Download VitaDock image from:
 -----
 
-[VitaDock VLC](https://github.com/CrashCortez/vitadock-vlc).
+[VitaDock VLC](https://drive.google.com/file/d/1b-92DKZwWxu-H2i0QgQtq-bWK96y0smI/view).
 
 2 - Using Win32diskimager or etcher "write" the unzipped Raspbian image to your SD Card. 
 ----
