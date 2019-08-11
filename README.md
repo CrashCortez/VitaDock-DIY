@@ -71,9 +71,13 @@ To setup an on/off button follow this [tutorial](https://www.youtube.com/watch?v
 
 To set up the Borken Button follow this [tutorial](https://www.youtube.com/watch?v=A08IrJ3ECuA) by Eta prime 
 
+7 - Test your setup before assembly
+-----
+Turn on the raspberry pi, connect to the VitaDock via BT on your vita to test that sound is comming from your tv. Then connect your vita to the pi with your vita's usb. If all goes to plan you should have both sound and video from your vita to your tv. 
+
 # Setting up the Dock
 
-1 - ASSEMBLE YOUR VITADOCK
+1 - Assemble your VitaDock
 -------
 
 
