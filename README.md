@@ -3,7 +3,7 @@
 
 [VitaDock video sneak peak](https://youtu.be/uhU4KG8FZ6s)
 
-This is Crash's MPV version version, if you wnat xCorra's VLC [click here](https://github.com/CrashCortez/vitadock-vlc)
+xCorra's Reddit post copied to the GitHub [click here](https://github.com/CrashCortez/vitadock-vlc)
 
 What you will need for this build
 ------------------------------------
