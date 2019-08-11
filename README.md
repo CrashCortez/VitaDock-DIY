@@ -48,7 +48,7 @@ Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=
 # Software Instructions Setup
 
 
-1- Download Raspbian with a desktop from:
+1- Download VitaDock image from:
 -----
 
 [Raspberrypi.org downloads](https://www.raspberrypi.org/downloads/raspbian/), remember to use the full desktop version, NOT the lite or desktop with recomended software.
