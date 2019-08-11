@@ -71,6 +71,12 @@ To setup an on/off button follow this [tutorial](https://www.youtube.com/watch?v
 
 To set up the Borken Button follow this [tutorial](https://www.youtube.com/watch?v=A08IrJ3ECuA) by Eta prime 
 
+# Setting up the Dock
+
+1 - ASSEMBLE YOUR VITADOCK
+-------
+
+
 # You are done! 
 
 Plug in
