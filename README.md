@@ -79,6 +79,19 @@ Turn on the raspberry pi, connect to the VitaDock via BT on your vita to test th
 
 1 - Assemble your VitaDock
 -------
+This is pretty straight forward. Grab all your hardware and put it in to your VitaDock case. 
+
+2 - Add a wireless remote/keyboard (Optional)
+-----
+Since my dock shell did not have acess to the usb ports on the outside. I used an AirMouse remote/keyboard so I could have some control on the linux side of things. 
+
+3 - Borkin Button/ momentary on/off button
+------
+Make sure your button works. Rember to turn your dock on piror to connecting the vita, and also disconnect your vita piror to shutoff. 
+
+4 - Double Check your work
+----
+Before you close it all up for good, do one last check that everything is working. 
 
 
 # You are done! 
