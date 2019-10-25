@@ -1,7 +1,7 @@
 # VitaDock DIY project
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 
-I will contue to work on this project. After I archive the old version. I will start working on a new version. Anyone that wants to help is more than welcome to. what you are reading is xCorra's VLC version archive, if you wnat Crash's MPV version [click here](https://github.com/CrashCortez/vitadock-setup)
+I will contue to work on the VitaDock OS. After I archive the old version. I will start working on my MPV version. Anyone that wants to help is more than welcome to. what you are reading is xCorra's VLC version archive, if you wnat Crash's MPV version [click here](https://github.com/CrashCortez/vitadock-mpv)
 
 [VitaDock video sneak peak](https://www.youtube.com/watch?v=uhU4KG8FZ6s)
 
@@ -59,7 +59,7 @@ Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=
 [VitaDock VLC](https://drive.google.com/file/d/1b-92DKZwWxu-H2i0QgQtq-bWK96y0smI/view).
 still working as of 10/25/2019
 
-All Image's/plugins Zip: comming soon!!
+All Image's/plugins Zip: comming soon!! Zips are being stored [here](https://drive.google.com/open?id=1oiDXRCN-kBG4QQrL1pw0TrwKVrxIPn1J), 6 images, setup scripts, and the plugins will be availible to download.
 
 [Plugins](https://github.com/CrashCortez/VitaDock-DIY/tree/master/vita%20plugins).
 
