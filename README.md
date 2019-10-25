@@ -1,13 +1,13 @@
 # VitaDock DIY project
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 
-I will contue to work on this project. After I archive the old version. I will start working on a new version. anyone that wants to help is more than welcome to.
+I will contue to work on this project. After I archive the old version. I will start working on a new version. Anyone that wants to help is more than welcome to.
 
 [VitaDock video sneak peak](https://www.youtube.com/watch?v=uhU4KG8FZ6s)
 
-xCorra's Reddit post copied to the GitHub [click here](https://github.com/CrashCortez/vitadock-vlc), I suggest you read there first for the required plugins on the vita side of things. <-- Which is now deleted ase of 10/25/2019
+xCorra's Reddit post copied to the GitHub [click here](https://github.com/CrashCortez/vitadock-vlc), I suggest you read there first for the required plugins on the vita side of things. <-- Which is now deleted as of 10/25/2019
 
-xCorra's Original [setup post](https://github.com/CrashCortez/VitaDock-DIY/tree/master/rpi%20vlc%20setup%20scripts). Scripts for post same folder area. you'll need s1.sh, s2.sh, RunVita.sh to compile vlc.
+xCorra's Original [setup post](https://github.com/CrashCortez/VitaDock-DIY/tree/master/rpi%20vlc%20setup%20scripts). Scripts for post same folder area. you'll need s1.sh, s2.sh, RunVita.sh to compile vlc. <-- Which is now deleted as of 10/25/2019
 
 
 What you will need for this build
@@ -21,7 +21,7 @@ I used a Raspberry Pi 3 B+
 - Bluetooth Dongle
 -----
 
-Any BT 4.0 should work. I used this no-name brand.
+Any BT 4.0 "should" work. I used this no-name brand.
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/bt%20dongle.jpg)
 
