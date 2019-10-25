@@ -1,7 +1,7 @@
 # VitaDock DIY project
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 
-I will contue to work on this project. After I archive the old version. I will start working on a new version. Anyone that wants to help is more than welcome to.
+I will contue to work on this project. After I archive the old version. I will start working on a new version. Anyone that wants to help is more than welcome to. what you are reading is xCorra's VLC version archive, if you wnat Crash's MPV version [click here](https://github.com/CrashCortez/vitadock-setup)
 
 [VitaDock video sneak peak](https://www.youtube.com/watch?v=uhU4KG8FZ6s)
 
