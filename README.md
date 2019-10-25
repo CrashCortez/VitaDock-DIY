@@ -59,7 +59,7 @@ Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=
 [VitaDock VLC](https://drive.google.com/file/d/1b-92DKZwWxu-H2i0QgQtq-bWK96y0smI/view).
 still working as of 10/25/2019
 
-All Image's/plugins Zip: comming soon!! Zips are being stored [here](https://drive.google.com/open?id=1oiDXRCN-kBG4QQrL1pw0TrwKVrxIPn1J), 6 images, setup scripts, and the plugins will be availible to download.
+All Image's/plugins Zip: comming soon!! Zips are being uploaded [here](https://drive.google.com/open?id=1oiDXRCN-kBG4QQrL1pw0TrwKVrxIPn1J): 9 images all beta some mine some his, PSVitaDock Buster 2.2 was the latest from xCorra. The vlc setup scripts, and the plugins will have zips as well, all will be availible to download.
 
 [Plugins](https://github.com/CrashCortez/VitaDock-DIY/tree/master/vita%20plugins).
 
