@@ -48,10 +48,15 @@ Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=
 # Software Instructions Setup
 
 
-1- Download VitaDock image from:
+1- Download VitaDock image and/or vita plugins from:
 -----
 
 [VitaDock VLC](https://drive.google.com/file/d/1b-92DKZwWxu-H2i0QgQtq-bWK96y0smI/view).
+still working as of 10/25/2019
+
+All Image's/plugins Zip: comming soon!!
+
+[Plugins](https://github.com/CrashCortez/VitaDock-DIY/tree/master/vita%20plugins).
 
 2 - Using Win32diskimager or etcher "write" the unzipped Raspbian image to your SD Card. 
 ----
