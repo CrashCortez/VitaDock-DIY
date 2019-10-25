@@ -1,4 +1,4 @@
-# VitaDock VLC DIY
+# VitaDock VLC original post
 
 This is xCorra's VLC version, if you wnat Crash's MPV version [click here](https://github.com/CrashCortez/vitadock-setup)
 
