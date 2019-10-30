@@ -40,9 +40,12 @@ On my build I used the [Borkin Button](https://www.youtube.com/watch?v=A08IrJ3EC
 --------
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/back.jpg)
-There are a few on thingverse, and a few people that can print them for you.
 
-Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=vita+raspberry+pi&dwh=875cb8a1f5323f8)
+David-Ox made the version that was on indigogo, he has the file up for free here:
+
+https://www.thingiverse.com/thing:3942821
+
+There are a few others on thingverse, and a few people that can print them for you. Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=vita+raspberry+pi&dwh=875cb8a1f5323f8)
 
 - Hacked PS VITA with usb connection
 -------
