@@ -56,11 +56,9 @@ There are a few others on thingverse, and a few people that can print them for y
 
 1- Download VitaDock image and/or vita plugins from:
 -----
+VitasDock VLC Final; [Readme](https://github.com/CrashCortez/vitadock-vlc/blob/master/release/README.md) and Download [here](link)
 
-[VitaDock VLC](https://drive.google.com/file/d/1b-92DKZwWxu-H2i0QgQtq-bWK96y0smI/view).
-still working as of 10/25/2019
-
-Archive zips are being uploaded [here](https://drive.google.com/open?id=1oiDXRCN-kBG4QQrL1pw0TrwKVrxIPn1J): 9 images all beta some mine some his, PSVitaDock Buster 2.2 was the latest from xCorra. The vlc setup scripts, and the plugins will have zips as well, all will be availible to download.
+Archive images and beta/test builds are uploaded [here](https://drive.google.com/open?id=1oiDXRCN-kBG4QQrL1pw0TrwKVrxIPn1J): 9 images all beta some mine some his, PSVitaDock Buster 2.2 was the latest from xCorra. The vlc setup scripts, and the plugins will have zips as well, all will be availible to download.
 
 You can all so get the vita plugins [here](https://github.com/CrashCortez/VitaDock-DIY/tree/master/vita%20plugins) on GitHub.
 
