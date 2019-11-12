@@ -18,10 +18,10 @@ I used a Raspberry Pi 3 B+
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/pi3b+.jpg)
 
-- Bluetooth Dongle
+- Bluetooth Dongle (Pi3b only)
 -----
 
-Any BT 4.0 "should" work. I used this no-name brand.
+Onboard BT is wororking on the pi3b+/a+, but a BT dongle is needed for the pi3b. Any BT 4.0 "should" work. I used this no-name brand.
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/bt%20dongle.jpg)
 
@@ -56,12 +56,15 @@ There are a few others on thingverse, and a few people that can print them for y
 
 1- Download VitaDock image and/or vita plugins from:
 -----
-VitasDock VLC Final: [Readme](https://github.com/CrashCortez/vitadock-vlc/blob/master/release/README.md) and Download [here](https://drive.google.com/file/d/1athBPeKyaEyIVlC-bIuqu38SslV-cSaj/view?usp=drivesdk)
+# VitaDock VLC Final image: [Readme](https://github.com/CrashCortez/vitadock-vlc/blob/master/release/README.md) and Download link [here](https://drive.google.com/file/d/1athBPeKyaEyIVlC-bIuqu38SslV-cSaj/view?usp=drivesdk)
 
+Archive Images
+---
 Archive images and beta/test builds are uploaded [here](https://drive.google.com/open?id=1oiDXRCN-kBG4QQrL1pw0TrwKVrxIPn1J): 9 images all beta some mine some his, PSVitaDock Buster 2.2 was the latest from xCorra. The vlc setup scripts, and the plugins will have zips as well, all will be availible to download.
 
 You can all so get the vita plugins [here](https://github.com/CrashCortez/VitaDock-DIY/tree/master/vita%20plugins) on GitHub.
 
+------
 2 - Using Win32diskimager or etcher "write" the unzipped Raspbian image to your SD Card. 
 ----
 
