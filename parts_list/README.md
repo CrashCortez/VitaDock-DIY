@@ -12,8 +12,6 @@ Pi3b+ with power supply and power cord
 Micro SD Card 16BG suggsted
 [Amazon Link](https://www.amazon.com/Sandisk-Ultra-Micro-UHS-I-Adapter/dp/B073K14CVB/ref=sr_1_3?keywords=micro+sd+card+16gb&qid=1573756846&sr=8-3)
 
-BT dongle 
-[Amazon Link](https://www.amazon.com/Daykit-Bluetooth-Adapter-Windows-Raspberry/dp/B01IM8YKPW/ref=sr_1_8?crid=2Z2T5XZ5SI2H0&keywords=bt+dongle+usb&qid=1573756701&sprefix=bt+don%2Caps%2C189&sr=8-8)
 
 Cheap Case with heatsinks
 [Amazon Link](https://www.amazon.com/Raspberry-Model-Protective-Heatsinks-Clear/dp/B01CDVSBPO/ref=sr_1_6?keywords=raspberry+pi+case&qid=1573757940&s=electronics&sr=1-6)
@@ -22,6 +20,8 @@ Cheap Case with heatsinks
 ----------------------
 Other options and kits
 ----------------------
+BT dongle 
+[Amazon Link](https://www.amazon.com/Daykit-Bluetooth-Adapter-Windows-Raspberry/dp/B01IM8YKPW/ref=sr_1_8?crid=2Z2T5XZ5SI2H0&keywords=bt+dongle+usb&qid=1573756701&sprefix=bt+don%2Caps%2C189&sr=8-8)
 
 Power supply only
 [Amazon Link](https://www.amazon.com/CanaKit-Raspberry-Supply-Adapter-Listed/dp/B00MARDJZ4/ref=sr_1_8?keywords=raspberry+pi3b%2B+kit&qid=1573757390&sr=8-8)
