@@ -39,14 +39,16 @@ Pi3b complete kit just grab the BT dongle from above
 You can get a 3D printed case from [Thingverse](https://www.ninjaprototype.com/3d-printing-service/) and have a site like [NinjaPrototype](https://www.ninjaprototype.com/3d-printing-service/) print it and ship it to you.
 
 On/Off button
-You'll need to connect the momenarty button to pins 5 and 6 on the gpio. for the Borkin Button mod follow this video by ETA prime. Script is pre-setup on teh VitaDock VLC final image for you.
+You'll need to connect the momenarty button to pins 5 and 6 on the gpio. for the Borkin Button mod follow this video by ETA prime. Script is pre-setup on the VitaDock VLC final image for you.
 
 Cheap Momentary button 
 [Amazon Link](https://www.amazon.com/Electop-Power-Button-Computer-Switch/dp/B01LMZZFWO/ref=pd_cp_147_3/131-1407029-8831369?_encoding=UTF8&pd_rd_i=B01LMZZFWO&pd_rd_r=b36eff7a-6323-4a19-84bd-e149d67039f4&pd_rd_w=NpCzA&pd_rd_wg=d39tJ&pf_rd_p=0e5324e1-c848-4872-bbd5-5be6baedf80e&pf_rd_r=M7YP8XGFJWWZGMRZ36AV&psc=1&refRID=M7YP8XGFJWWZGMRZ36AV)
 
 Fancy Momentary button 
 How to set up a power button with led by [ETA Prime](https://www.youtube.com/watch?v=of2p-FHg6nY)
+
 [Amazon Link](https://www.amazon.com/KNACRO-Chassis-Switch-computer-restart/dp/B01N4HZRWX/ref=sr_1_96?keywords=momentary+button+with+connector&qid=1573760067&sr=8-96)
 
 3.5mm Jack button (Borkin Button) note: not all buttons will work buy a few. i bought 3 and only one worked the reset would boot loop my pi. this is because of to high or to low resitance in the button itself. Make sure it has 3 bands on the butt some have 2. how to install a Borkin Button by [Eta Prime](https://youtu.be/A08IrJ3ECuA)
+
 [Amazon Link](https://www.amazon.com/Headphone-Earphone-Dustproof-Android-Smartphone/dp/B00Z0CUNSW/ref=pd_rhf_se_p_img_1?_encoding=UTF8&psc=1&refRID=H7J5SSA6HG097R6X8XG1)
